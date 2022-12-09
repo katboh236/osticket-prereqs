@@ -76,14 +76,14 @@ Installed Microsoft Remote Desktop and connected to Virtual Machine (VM) via Rem
 </p>
 
 <p>
-Installed/Enabled Internet Information Services (IIS) that created a web server on Virtual Machine (VM) that used to serve up osTicket application.
+Installed/Enabled Internet Information Services (IIS) that created a web server on Virtual Machine (VM) to be used to serve up osTicket application.
 </p>
 <br />
 <p>
 <img src="https://imgur.com/RHL4fo8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Installed/Enabled Internet Information Services (IIS) that created a web server on Virtual Machine (VM) that used to serve up osTicket application.
+Installed/Enabled Internet Information Services (IIS) that created a web server on Virtual Machine (VM) to be used to serve up osTicket application.
 </p>
 <br />
 
