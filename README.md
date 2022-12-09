@@ -48,7 +48,13 @@ hbgcjgj
 <img src="https://imgur.com/yd5qvVP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs in Microsoft Azure with standart D4s_v3 - 4 vcpus, 16 GiB memory size.
+<img src="https://imgur.com/S0AwTNb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://imgur.com/w9j5OSV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Created a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs in Microsoft Azure with standard D4s_v3 - 4 vcpus, 16 GiB memory size. Network interface: virtual network - RG-osTicket-vnet; Subnet - 10.0.0.0/24; public IP - VM-osTicket-ip.
 </p>
 <br />
 
