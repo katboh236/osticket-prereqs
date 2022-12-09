@@ -22,22 +22,29 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enable internet information services (EIIS)
-- Installed web platform installer
-- Installed mysequel instead of username and password
-- Installed c++ redistributable
-- Configure permissions and install osTicket
+- Created a Resource Group in Microsoft Azure 
+- Created a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs in Microsoft Azure
+- Installed Microsoft Remote Desktop
+- Connected to Virtual Machine (VM) with Remote Desktop
+- Installed/Enabled Internet Information Services (IIS)
+- Installed Web Platform Installer
+- Installed MySQL 5.5 instead of username and password
+- Installed PHP Version 7.3.8
+- Installed PHP Manager 1.5.0 for IIS 10
+- Installed C++ 2009 Redistributable Package
+- Configured Permissions and Installed osTicket
+- Did After-Installation Configuraton of osTicket
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/PhZOII9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created Resource Group in Microsoft Azure - RG-osTicket.
 </p>
 <br />
-
+hbgcjgj
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
