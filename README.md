@@ -43,7 +43,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Created Resource Group in Microsoft Azure - RG-osTicket in order to create Virtual Machine (VM).
 </p>
 <br />
-hbgcjgj
+
 <p>
 <img src="https://imgur.com/yd5qvVP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -59,9 +59,15 @@ Created a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs in Microsoft Azu
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/lj7D0gm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://imgur.com/aWtaYZ2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://imgur.com/RHL4fo8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Installed Microsoft Remote Desktop and connected to Virtual Machine (VM) via Remote Desktop using public IP address.
 </p>
 <br />
