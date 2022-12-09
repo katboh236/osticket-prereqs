@@ -71,3 +71,19 @@ Created a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs in Microsoft Azu
 Installed Microsoft Remote Desktop and connected to Virtual Machine (VM) via Remote Desktop using public IP address.
 </p>
 <br />
+<p>
+<img src="https://imgur.com/aFxfQc3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Installed/Enabled Internet Information Services (IIS) that created a web server on Virtual Machine (VM) that used to serve up osTicket application.
+</p>
+<br />
+<p>
+<img src="https://imgur.com/RHL4fo8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Installed/Enabled Internet Information Services (IIS) that created a web server on Virtual Machine (VM) that used to serve up osTicket application.
+</p>
+<br />
+
