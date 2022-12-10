@@ -80,10 +80,19 @@ Installed/Enabled Internet Information Services (IIS) that created a web server 
 </p>
 <br />
 <p>
-<img src="https://imgur.com/RHL4fo8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ZtvmG4o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Installed/Enabled Internet Information Services (IIS) that created a web server on Virtual Machine (VM) to be used to serve up osTicket application.
+Installed Web Installer, instlled MySQL and added all versions of x86 PHP up until 7.3. Installed failed prerequisites: PHP Version 7.3.8, PHP Manager 1.5.0 for IIS 10 and Microsoft Visual C++ 2009 Redistributable Package.
+
 </p>
 <br />
 
+<p>
+<img src="https://imgur.com/RHL4fo8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Installed osTicket
+
+</p>
+<br />
