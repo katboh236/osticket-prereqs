@@ -80,6 +80,9 @@ Installed/Enabled Internet Information Services (IIS) that created a web server 
 </p>
 <br />
 <p>
+<img src="https://imgur.com/IiRCvQQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <img src="https://imgur.com/ZtvmG4o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -89,10 +92,13 @@ Installed Web Installer, instlled MySQL and added all versions of x86 PHP up unt
 <br />
 
 <p>
-<img src="https://imgur.com/RHL4fo8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/4slP3kC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Installed osTicket
+<img src="https://imgur.com/IYCjrnj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Installed osTicket and enabled some extensions necessary for osTicket to work(php_imap.dll, php_intl.dll, php_opcache.dll) in IIS PHP Manager.
 
 </p>
 <br />
