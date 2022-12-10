@@ -98,7 +98,21 @@ Installed Web Installer, instlled MySQL and added all versions of x86 PHP up unt
 <img src="https://imgur.com/IYCjrnj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Installed osTicket and enabled some extensions necessary for osTicket to work(php_imap.dll, php_intl.dll, php_opcache.dll) in IIS PHP Manager.
+Installed osTicket and enabled some extensions in IIS PHP Manager necessary for osTicket to function (php_imap.dll, php_intl.dll, php_opcache.dll).
+
+</p>
+<br />
+<p>
+<img src="https://imgur.com/C1YgYt6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://imgur.com/wDXEtLr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://imgur.com/tnTYPpY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Renamed ost-sampleconfig.php to ost-config.php (From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php To: C:\inetpub\wwwroot\osTicket\include\ost-config.php). Disabled all inherited permission for ost-config.php and assigned new permissions to "everyone".
 
 </p>
 <br />
