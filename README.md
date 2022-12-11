@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Installed PHP Manager 1.5.0 for IIS 10
 - Installed C++ 2009 Redistributable Package
 - Configured Permissions and Installed osTicket
-- Did After-Installation Configuraton of osTicket
+- After-Installation Configuraton of osTicket
 
 <h2>Installation Steps</h2>
 
