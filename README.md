@@ -116,3 +116,11 @@ Renamed ost-sampleconfig.php to ost-config.php (From: C:\inetpub\wwwroot\osTicke
 
 </p>
 <br />
+<p>
+<img src="https://imgur.com/85X0iSA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Downloaded and installed HeidiSQL in order to set up database connection. Created a new session and database in HeidiSQL in order to fill out database setting information to finish osTicket installation. Finished installation of osTicket in the browser. 
+
+</p>
+<br />
