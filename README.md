@@ -5,10 +5,6 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -57,7 +53,6 @@ Created Resource Group in Microsoft Azure - RG-osTicket in order to create Virtu
 Created a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs in Microsoft Azure with standard D4s_v3 - 4 vcpus, 16 GiB memory size. Network interface: Virtual network - RG-osTicket-vnet; Subnet - 10.0.0.0/24; Public IP - VM-osTicket-ip.
 </p>
 <br />
-
 <p>
 <img src="https://imgur.com/lj7D0gm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -74,7 +69,6 @@ Installed Microsoft Remote Desktop and connected to Virtual Machine (VM) via Rem
 <p>
 <img src="https://imgur.com/aFxfQc3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
 <p>
 Installed/Enabled Internet Information Services (IIS) that created a web server on Virtual Machine (VM) to be used to serve up osTicket application.
 </p>
@@ -87,10 +81,8 @@ Installed/Enabled Internet Information Services (IIS) that created a web server 
 </p>
 <p>
 Installed Web Installer, instlled MySQL and added all versions of x86 PHP up until 7.3. Installed failed prerequisites: PHP Version 7.3.8, PHP Manager 1.5.0 for IIS 10 and Microsoft Visual C++ 2009 Redistributable Package.
-
 </p>
 <br />
-
 <p>
 <img src="https://imgur.com/4slP3kC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -99,7 +91,6 @@ Installed Web Installer, instlled MySQL and added all versions of x86 PHP up unt
 </p>
 <p>
 Installed osTicket and enabled some extensions in IIS PHP Manager necessary for osTicket to function (php_imap.dll, php_intl.dll, php_opcache.dll).
-
 </p>
 <br />
 <p>
@@ -113,7 +104,6 @@ Installed osTicket and enabled some extensions in IIS PHP Manager necessary for 
 </p>
 <p>
 Renamed ost-sampleconfig.php to ost-config.php (From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php To: C:\inetpub\wwwroot\osTicket\include\ost-config.php). Disabled all inherited permission for ost-config.php and assigned new permissions to "everyone".
-
 </p>
 <br />
 <p>
@@ -121,6 +111,5 @@ Renamed ost-sampleconfig.php to ost-config.php (From: C:\inetpub\wwwroot\osTicke
 </p>
 <p>
 Downloaded and installed HeidiSQL in order to set up database connection. Created a new session and database in HeidiSQL in order to fill out database setting information to finish osTicket installation. Finished installation of osTicket in the browser. 
-
 </p>
 <br />
